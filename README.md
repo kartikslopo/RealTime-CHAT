@@ -1,66 +1,70 @@
-# Zing-Devengers
+# Getting Started with Create React App
 
-Zing is a Platform for teenagers, college students to boost collaboration, and foster better preparation for exams online where user can make a study group and share a invite of it with his interested friends and once the login is done  user can display their level of expertise as well as level of weakness in topics on their dashboard and let other students know about it. Once this is done, students can chat and finalise the common time to meet up online and strengthen each other weaknesses.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Getting Started
+## Available Scripts
 
-These instructions will let you run this application on your system.
-Follow the below code on the terminal : 
+In the project directory, you can run:
 
+### `npm start`
 
-    1.npm install
-    2.npx install
-    3.npm start
-   
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-You will be landing on the login page . You can try the following username and password:
-   >Username : Kartik 
-  
-   >Password : 12345
-                               
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-Or you can go to cheatengine.io , create a new account and request access.
+### `npm test`
 
-## Technologies used
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm run build`
 
-#### Front end develoment:
-1. HTML
-2. CSS
-3. Bootstrap
-4. JavaScript
-5. reactJS
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-#### Backend development:
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-1. nodeJS
-2. NPM
-3. reactJS
-4. chatengine inbuilt database
-5. javascript
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-#### API:
-1.Chatengine
+### `npm run eject`
 
-                                        https://chatengine.io/ 
-                                   
-## Deployment : 
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-We have deployed the following application using netlify which is an intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps.
-Here is the link of our fully functioning code :  -
-                                      <a href="https://zingsrm.netlify.app/">ZING</a>
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-## Authors:
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-1.Kartik srivastava (https://github.com/kartikslopo)
+## Learn More
 
-2.Astha vijayvargiya (https://github.com/astha77-bot) 
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
- 
+To learn React, check out the [React documentation](https://reactjs.org/).
 
+### Code Splitting
 
-  
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-                                   
- 
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
