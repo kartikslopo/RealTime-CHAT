@@ -1,4 +1,4 @@
-# Zing-Devengers
+# Zing-The real time study app
 
 Zing is a Platform for teenagers, college students to boost collaboration, and foster better preparation for exams online where user can make a study group and share a invite of it with his interested friends and once the login is done  user can display their level of expertise as well as level of weakness in topics on their dashboard and let other students know about it. Once this is done, students can chat and finalise the common time to meet up online and strengthen each other weaknesses.
 
